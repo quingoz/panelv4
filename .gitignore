@@ -32,4 +32,4 @@ out/
 node_modules/
 
 # Ignore config file
-#Config/Config.php
+Config/Config.php
